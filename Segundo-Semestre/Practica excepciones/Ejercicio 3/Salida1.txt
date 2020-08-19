@@ -1,0 +1,2 @@
+La temperatura a las 8 es -3 grados
+La temperatura a las 6 es 15 grados
