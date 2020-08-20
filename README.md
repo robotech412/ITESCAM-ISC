@@ -9,4 +9,7 @@ Las aplicaciones desarrolladas durante la carrera las he clasificado por semestr
 - Excepciones
 - Algebra Lineal
 
-### Tercer Senestre
+### Tercer Semestre
+- Estructura de datos
+
+### Cuarto Semestre
