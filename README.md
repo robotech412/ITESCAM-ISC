@@ -1,4 +1,4 @@
-# Descripción
+## Descripción
 Este es una compilacion de programas relevantes desarrollados durante la carrera de Ingenieria en Sistemas Computacionales en el Instituto Tecnologico Superior de Calkiní
 
 ### Programas
