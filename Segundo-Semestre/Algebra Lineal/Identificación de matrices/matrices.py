@@ -1,5 +1,5 @@
-print ("arreglo 2\n")
-print ("tipo de arreglo matriz cuadrada")
+print ("arreglo 1\n")
+print ("tipo de arreglo: matriz cuadrada")
 A=[[1,2,3],[4,5,6]]
 
 a=""
@@ -17,8 +17,9 @@ for k in range(2):
     B=[[1,2,3],[4,5,6]]
 
 a=""
+print("")
 print ("arreglo 2\n")
-print ("tipo de arreglo matriz rectangular")
+print ("tipo de arreglo: matriz rectangular")
 B=[[1,2,3],[4,0,6],[6,1,9]]
 
 b=""
