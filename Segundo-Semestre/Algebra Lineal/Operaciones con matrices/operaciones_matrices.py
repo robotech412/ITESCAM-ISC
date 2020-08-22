@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import numpy
+import numpy as ny
 import sys
 def suma ():
     print ("SUMA DE MATRICES \t")
