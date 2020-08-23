@@ -15,7 +15,7 @@ Actividades y ejercicios de programación orientada a objetos realizados en java
 | [**Ejercicio 3**](Ejercicios%20POO/Ejercicio3/README.md) |Lectura por teclado de una palabra para identificar si esta es o no un palindromo|
 | **Ejercicio 5** |Mediante el uso de arreglos se calcula el promedio de un grupo de alumnos,cuantos pasaron, sus edades y quien sacó la calificacion mas alta|
 | [**Ejercicio 6**](Ejercicios%20POO/ejercicio6/README.md) |Calculo del cuadrado de la hipotenusa mediante la lectura por teclado de los catetos usando BufferReader e InputStreamReader como alternativa del Scanner|
-| **Ejercicio 7** |Calculo de una incognita X el cual representa la hipotenusa o un cateto a calcular |
+| [**Ejercicio 7**](Segundo-Semestre/Ejercicios%20POO/ejercicio7/README.md) |Calculo de una incognita X el cual representa la hipotenusa o un cateto a calcular |
 
 
 #### *Excepciones*
