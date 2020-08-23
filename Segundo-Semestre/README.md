@@ -14,7 +14,7 @@ Actividades y ejercicios de programación orientada a objetos realizados en java
 | **Ejercicio 2** |Calcula el promedio de producción de cosecha en un año ingresando la cantidad por mes |
 | **Ejercicio 3** |Lectura por teclado de una palabra para identificar si esta es o no un palindromo|
 | **Ejercicio 5** |Mediante el uso de arreglos se calcula el promedio de un grupo de alumnos,cuantos pasaron, sus edades y quien sacó la calificacion mas alta|
-| **Ejercicio 6** |Calculo del cuadrado de la hipotenusa mediante la lectura por teclado de los catetos usando BufferReader e InputStreamReader como alternativa del Scanner|
+| [**Ejercicio 6**](Ejercicios%20POO/ejercicio6/README.md) |Calculo del cuadrado de la hipotenusa mediante la lectura por teclado de los catetos usando BufferReader e InputStreamReader como alternativa del Scanner|
 | **Ejercicio 7** |Calcula el promedio de producción de cosecha en un año ingresando la cantidad por mes |
 
 
