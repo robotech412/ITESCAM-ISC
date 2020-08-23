@@ -10,7 +10,7 @@ Actividades y ejercicios de programación orientada a objetos realizados en java
 
 | Actividad| Descripción |
 | --- | --- |
-| **Ejercicio 1** |Visualizacion de un mazo de cartas mediante la lectura de un archivo de texto utlizando StringTokenizer|
+| [**Ejercicio 1**])(Ejercicios%20POO/ejercicio1/README.md) |Visualizacion de un mazo de cartas mediante la lectura de un archivo de texto utlizando StringTokenizer|
 | **Ejercicio 2** |Calcula el promedio de producción de cosecha en un año ingresando la cantidad por mes |
 | **Ejercicio 3** |Lectura por teclado de una palabra para identificar si esta es o no un palindromo|
 | **Ejercicio 5** |Mediante el uso de arreglos se calcula el promedio de un grupo de alumnos,cuantos pasaron, sus edades y quien sacó la calificacion mas alta|
