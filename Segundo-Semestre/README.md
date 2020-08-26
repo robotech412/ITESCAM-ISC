@@ -1,6 +1,6 @@
 ## Actividades realizadas durante el segundo semestre de ISC en el ITESCAM
 #### *Algebra lineal*
-Algunos ejercicios realizados con python de los cuales se incluyen los siguientes:
+Algunos operaciones con matrices realizados con python los cuales se describen a continuación:
 
 | Actividad| Descripción |
 | --- | --- |
