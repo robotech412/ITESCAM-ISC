@@ -2,8 +2,11 @@
 #### *Algebra lineal*
 Algunos ejercicios realizados con python de los cuales se incluyen los siguientes:
 
-- Identificacion de matrices.
-- Calculadora de numeros complejos.
+| Actividad| Descripción |
+| --- | --- |
+| Identificacion de matrices.| Programa que despliega una serie de matrices y su clasificación|
+| Calculadora de numeros complejos.|Calculadora basica que hace operaciones con numeros complejos|
+| Operaciones con matrices.|Programa que realiza las operaciones basicas con matrices(suma,resta,multiplicación,div,multi escalar etc)|
 
 #### *Ejercicios POO*
 Actividades y ejercicios de programación orientada a objetos realizados en java.
