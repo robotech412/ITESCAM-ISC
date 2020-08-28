@@ -25,7 +25,7 @@ def division():
     print("El resultado de la division es:",resultado)
     print(" ")
 def multiplicacion():
-    a=input("Ingrese la primera cantidad usando este formato ->10+25jn")
+    a=input("Ingrese la primera cantidad usando este formato ->10+25j")
     b=input("Ingrese la segunda cantidad\n")
     a2= complex(a)
     b2= cmplex(b)
@@ -37,7 +37,7 @@ while (True):
         print ("2 = Resta")
         print ("3 = Multiplicacion")
         print ("4 = Division")
-        opcion = int(input("Ingrese opcion\n"))
+        opcion = int(input("Ingrese solo una opcion\n"))
         if (opcion == 1):
             suma()
 
