@@ -1,2 +1,2 @@
 ## Descricpión
-![Screenshot](Segundo-Semestre/assets/cs1.png)
+![Screenshot](cs1.png)
