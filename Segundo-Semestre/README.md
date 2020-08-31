@@ -24,3 +24,8 @@ Actividades y ejercicios de programación orientada a objetos realizados en java
 #### *Excepciones*
 Actividades y ejercicios de programación orientada a objetos realizados en java usando excepciones.
 
+| Actividad|Descripción |
+|---|---|
+|Ejercicio1||dwadadwd|
+|Ejercicio2||dwadadwd|
+|Ejercicio3||dwadadwd|
