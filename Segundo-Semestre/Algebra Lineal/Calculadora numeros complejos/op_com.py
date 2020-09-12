@@ -28,7 +28,7 @@ def multiplicacion():
     a=input("Ingrese la primera cantidad usando este formato ->10+25j:")
     b=input("Ingrese la segunda cantidad\n")
     a2= complex(a)
-    b2= cmplex(b)
+    b2= complex(b)
     resultado= a2*b2
     print("El resultado de la multiplicacion es:",resultado)
     print(" ")
