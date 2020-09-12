@@ -1,7 +1,7 @@
 
 import cmath
 def suma():
-    a = (input("Ingrese la primera cantidad usando este formato ->10+25j\n"))
+    a = (input("Ingrese la primera cantidad usando este formato ->10+25j:\n"))
     b = (input("Ingrese la segunda cantidad\n"))
     a2= complex(a)
     b2= complex(b)
@@ -9,7 +9,7 @@ def suma():
     print("El resultado de la suma es:",resultado)
     print(" ")
 def resta():
-    a=(input("Ingrese la primera cantidad usando este formato ->10+25j\n"))
+    a=(input("Ingrese la primera cantidad usando este formato ->10+25j:\n"))
     b=(input("Ingrese la segunda cantidad\n"))
     a2= complex(a)
     b2= complex(b)
@@ -17,7 +17,7 @@ def resta():
     print("El resultado de la resta es:",resultado)
     print(" ")
 def division():
-    a=input(("Ingrese la primera cantidad usando este formato ->10+25j\n"))
+    a=input(("Ingrese la primera cantidad usando este formato ->10+25j:\n"))
     b=input(("Ingrese la segunda cantidad\n"))
     a2= complex(a)
     b2= complex(b)
@@ -25,7 +25,7 @@ def division():
     print("El resultado de la division es:",resultado)
     print(" ")
 def multiplicacion():
-    a=input("Ingrese la primera cantidad usando este formato ->10+25j")
+    a=input("Ingrese la primera cantidad usando este formato ->10+25j:")
     b=input("Ingrese la segunda cantidad\n")
     a2= complex(a)
     b2= cmplex(b)
@@ -37,7 +37,7 @@ while (True):
         print ("2 = Resta")
         print ("3 = Multiplicacion")
         print ("4 = Division")
-        opcion = int(input("Ingrese solo una opcion\n"))
+        opcion = int(input("Ingrese solo una opcion:\n"))
         if (opcion == 1):
             suma()
 
