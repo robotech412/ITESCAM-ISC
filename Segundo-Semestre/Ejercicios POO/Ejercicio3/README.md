@@ -4,4 +4,5 @@ Se ingresa una palabra en la terminal de comandos y se comprueba si es o no pali
 `java  Ejercicio3 cacahuate`
 
 **Resultado: No es palindromo**
+
 ![Ejemplo](/assets/S2/POO_3.png)
