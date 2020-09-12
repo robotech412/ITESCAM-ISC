@@ -4,8 +4,8 @@ Algunos operaciones con matrices realizados con python los cuales se describen a
 
 | Actividad| Descripción |
 | --- | --- |
-| [**Identificacion de matrices**](Algebra%20Lineal/Calculadora%20numeros%20complejos)| Programa que despliega una serie de matrices y su clasificación|
-| [**Calculadora de numeros complejos**](Algebra%20Lineal/Identificación%20de%20matrices)|Calculadora basica que hace operaciones con numeros complejos|
+| [**Identificacion de matrices**](Algebra%20Lineal/Identificación%20de%20matrices)| Programa que despliega una serie de matrices y su clasificación|
+| [**Calculadora de numeros complejos**](Algebra%20Lineal/Calculadora%20numeros%20complejos)|Calculadora basica que hace operaciones con numeros complejos|
 | [**Operaciones con matrices**](Algebra%20Lineal/Operaciones%20con%20matrices)|Programa que realiza las operaciones basicas con matrices(suma,resta,multiplicación,div,multi escalar etc)|
 
 #### *Ejercicios POO*
