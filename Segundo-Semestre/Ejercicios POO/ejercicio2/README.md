@@ -6,3 +6,7 @@ Se ingresa en la terminal de comandos el valor de produccion de cada mes y arroj
 _NOTA: Los ultimos doce numeros representan la cantidad por mes en un año_
 
 **resultado: 6.083333333333333**
+
+
+![Ejemplo](/assets/S2/POO_2.png)
+
