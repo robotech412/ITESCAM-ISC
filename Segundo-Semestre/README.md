@@ -27,5 +27,5 @@ Actividades y ejercicios de programación orientada a objetos realizados en java
 | Actividad|Descripción |
 |---|---|
 |Ejercicio1|Esta actividad realiza divisiones segun la cantidad de operaciones que se vayan realizando|
-|Ejercicio2|Saca el promedio de las cantidades ingresadas por teclado|
+|[**Ejercicio2**](/Segundo-Semestre/Excepciones/Ejercicio%202)|Saca el promedio de las cantidades ingresadas por teclado|
 |Ejercicio3|Son tres programas que realizan diferentes operaciones cuyas entradas y salidasson archivos de texto|
