@@ -33,12 +33,13 @@ public class Ejercicio5 {
 			prom= acumulador/Calificaciones.length;
 			return prom;
 	}
-	public static void Imprimir(double Calificaciones[],String Alumnos[],double Promedio){
+	public static void Imprimir(double Calificaciones[],String Alumnos[],double Promedio){	
 		System.out.printf("%-15s %-15s%n%n","Alumnos","Calificación");
 		for(int i=0;i<Calificaciones.length;i++){
 			System.out.printf("%-15s %-15f%n%n", Alumnos[i],Calificaciones[i]);
-			System.out.println("\nEl promedio grupal es: "+Promedio);
+			//System.out.println("\nEl promedio grupal es: "+Promedio);
 		}
+		System.out.printf("\nEl promedio grupal es: "+Promedio);
 	}
 	public static void Mayor(double Calificaciones[],String Alumnos[]){
 		double Mayor=0;
@@ -49,7 +50,7 @@ public class Ejercicio5 {
 				Mayor=Calificaciones[i];
 				Alumno= Alumnos[i];
 			}
-		System.out.println("\nLa calificación mas alta es: "+Mayor+ "El cual es del alumno: "+Alumno);
+		System.out.println("\nLa calificación mas alta es: "+Mayor+"\nEl cual es del alumno: "+Alumno);
 	}
 
 	public static void main(String[] args){
