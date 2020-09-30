@@ -13,8 +13,8 @@ Las aplicaciones desarrolladas durante la carrera las he clasificado por semestr
 - Estructura de datos
 
 ### Cuarto Semestre
--Métodos numericos
--Tópicos avanzados de programación
+- Métodos numericos
+- Tópicos avanzados de programación
 ### Quinto Semestre
 
 ### Sexto Semestre
