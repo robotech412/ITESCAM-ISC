@@ -16,4 +16,4 @@ Las aplicaciones desarrolladas durante la carrera las he clasificado por semestr
 - Métodos numericos
 - Tópicos avanzados de programación
 
-El resto de las actividades realizadas de otros semestres estan como repositorios/proyectos independientes
+*El resto de las actividades realizadas de otros semestres estan como repositorios/proyectos independientes.*
