@@ -9,10 +9,10 @@ Las aplicaciones desarrolladas durante la carrera las he clasificado por semestr
 - Excepciones
 - Algebra Lineal
 
-### Tercer Semestre
+### [Tercer Semestre](Tercer-Semestre/README.md)
 - Estructura de datos
 
-### Cuarto Semestre
+### [Cuarto Semestre](Cuarto-Semestre/README.md)
 - Métodos numericos
 - Tópicos avanzados de programación
 
