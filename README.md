@@ -1,5 +1,5 @@
 ## Descripción
-Este es una compilacion de programas relevantes desarrollados durante la carrera de Ingenieria en Sistemas Computacionales en el Instituto Tecnologico Superior de Calkiní
+Este es una compilacion de programas relevantes desarrollados hasta cuarto semestre durante la carrera de Ingenieria en Sistemas Computacionales en el Instituto Tecnologico Superior de Calkiní
 
 ### Programas
 Las aplicaciones desarrolladas durante la carrera las he clasificado por semestre y señalando a que area o topico pertenece quedando de la siguiente manera:
@@ -15,8 +15,5 @@ Las aplicaciones desarrolladas durante la carrera las he clasificado por semestr
 ### Cuarto Semestre
 - Métodos numericos
 - Tópicos avanzados de programación
-### Quinto Semestre
 
-### Sexto Semestre
-
-### Septimo Semestre
+El resto de las actividades realizadas de otros semestres estan como repositorios/proyectos independientes
